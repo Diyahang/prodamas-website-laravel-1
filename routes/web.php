@@ -16,6 +16,8 @@ use App\Http\Controllers\VideoController;
 use App\Http\Controllers\TentangController;
 use App\Http\Controllers\TulisCeritaController;
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\DataController;
+
 //use App\Http\Controllers\SocialShareButtonsController;
 
 
